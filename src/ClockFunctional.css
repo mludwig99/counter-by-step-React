@@ -1,0 +1,29 @@
+.clock-functional {
+   
+    padding: 3px;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+
+
+
+}
+
+.clock-functional h4 {
+    margin: 0px;
+    font-size: 12px;
+    font-weight: lighter;
+
+}
+
+.clock-functional h4 span {
+    font-weight: bolt;
+    color: lightcoral;
+}
+
+.clock-functional h4 span:hover {
+    color: red;
+    cursor: pointer;
+    text-decoration: underline;
+
+}

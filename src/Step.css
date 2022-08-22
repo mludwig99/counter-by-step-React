@@ -1,0 +1,17 @@
+.step-div {
+    margin:auto ;
+    padding: 10px;
+    background-color: #0066FF;
+    color: #FFF;
+    border: 1px solid #0066FF;
+    
+}
+
+.span-step{
+    margin:10px ;
+}
+
+input{
+    width:30% ;
+    cursor: pointer;
+}
